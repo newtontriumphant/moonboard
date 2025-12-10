@@ -48,4 +48,8 @@ Besides wanting some tickets, I made this project to get experience wiring tight
 
 (back)
 
-**LINK TO ONLINE BOM**: https://docs.google.com/spreadsheets/d/15F8xWGwHDrRC-6U4iF5xaIdYso21UewkW3L2MryQvT8/ (BOM.csv file also attached in PCB folder).
+**LINK TO ONLINE BOM**: https://docs.google.com/spreadsheets/d/15F8xWGwHDrRC-6U4iF5xaIdYso21UewkW3L2MryQvT8/ 
+
+(BOM.csv file also attached in PCB folder).
+
+Thanks for reading up to here, you get a cookie! 🍪 :D
