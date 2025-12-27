@@ -55,7 +55,7 @@ Besides wanting some tickets, I made this project to get experience wiring tight
 <img width="1920" height="1243" alt="Screenshot 2025-12-26 at 4 11 20 PM" src="https://github.com/user-attachments/assets/7775c666-5836-46c4-b03f-f6d4f7a67690" />
 <img width="1920" height="1243" alt="Screenshot 2025-12-26 at 4 07 55 PM" src="https://github.com/user-attachments/assets/8f12a0a6-8cdd-4591-b3c5-2601bc7dee31" />
 
-**LINK TO ONLINE BOM**: https://docs.google.com/spreadsheets/d/15F8xWGwHDrRC-6U4iF5xaIdYso21UewkW3L2MryQvT8/ 
+**LINK TO ONLINE BOM**: https://docs.google.com/spreadsheets/d/1HLCWrT6yZXuZGsytFHmTzsnE9zg9GKQJlMwihE3njsE/
 
 (BOM.csv file also attached in PCB folder).
 
