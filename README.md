@@ -1,6 +1,6 @@
 # moonboard, by zsharpminor :3
 
-Hi fellow reviewers! This is Moonboard - an RP2040-powered devboard with an integrated temperature sensor, status LED, and switch. This is a **tickets-only project**, but I'm still taking it seriously nevertheless.
+Hi fellow reviewers! This is Moonboard - an RP2040-powered devboard with an integrated temperature sensor, status LED, and switch. This used to be a tickets-only project, so please let me know if I can improve on it - but I'd like to get it manufactured asap as gsdl takes awhile (:/). Additionally, I own the sk6812-mini LED and header pins I will use to solder this board, so JLCPCB won't solder them for me.
 
 ## Credits:
 
@@ -47,6 +47,13 @@ Besides wanting some tickets, I made this project to get experience wiring tight
 <img width="318" height="528" alt="Screenshot 2025-12-09 at 7 25 03 PM" src="https://github.com/user-attachments/assets/6419faaa-5c53-40bd-a68c-cd00204aca6d" />
 
 (back)
+
+### JLCPCB IMAGES:
+
+<img width="1920" height="1243" alt="Screenshot 2025-12-26 at 4 31 39 PM" src="https://github.com/user-attachments/assets/4d78ffcb-bc2a-4cf5-9e40-c71be8d62689" />
+<img width="1920" height="1243" alt="Screenshot 2025-12-26 at 4 17 21 PM" src="https://github.com/user-attachments/assets/452407a1-d0be-4bcf-a978-3e3250c6f6c2" />
+<img width="1920" height="1243" alt="Screenshot 2025-12-26 at 4 11 20 PM" src="https://github.com/user-attachments/assets/7775c666-5836-46c4-b03f-f6d4f7a67690" />
+<img width="1920" height="1243" alt="Screenshot 2025-12-26 at 4 07 55 PM" src="https://github.com/user-attachments/assets/8f12a0a6-8cdd-4591-b3c5-2601bc7dee31" />
 
 **LINK TO ONLINE BOM**: https://docs.google.com/spreadsheets/d/15F8xWGwHDrRC-6U4iF5xaIdYso21UewkW3L2MryQvT8/ 
 
