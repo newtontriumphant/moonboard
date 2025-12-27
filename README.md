@@ -12,7 +12,7 @@ I also got some help from another friend who had previously made a devboard, he 
 
 ## Detailed Description and Reason For Making:
 
-Besides wanting some tickets, I made this project to get experience wiring tight spaces in KiCad - my first time wiring a non-premade MCU. The tutorial was quite helpful, and in the few places where it stumped me, Google and my friend were able to help! I think that designing this devboard was a really educational process, and I feel ready for Prototype! Images are attached below. Now - this is my first devboard - I probably made some obvious errors - I had my friend review it and he said it looked good, I fixed all DRC errors, fellow reviewers please do let me know what I can fix/improve on - but keep in mind this project won't be shipped anytime soon, it was mainly to practice my KiCad skills for Prototype!
+Besides wanting some tickets, I made this project to get experience wiring tight spaces in KiCad - my first time wiring a non-premade MCU. The tutorial was quite helpful, and in the few places where it stumped me, Google and my friend were able to help! I think that designing this devboard was a really educational process, and I feel ready for Prototype! Images are attached below. Now - this is my first devboard - I probably made some obvious errors - I had my friend review it and he said it looked good, I fixed all DRC errors, fellow reviewers please do let me know what I can fix/improve on - but please do keep in mind that this board was mainly to practice my KiCad skills for Prototype!
 
 # IMAGES
 
