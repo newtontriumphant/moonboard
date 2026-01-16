@@ -1,6 +1,32 @@
 # moonboard, by zsharpminor :3
 
-Hi fellow reviewers! This is Moonboard - an RP2040-powered devboard with an integrated temperature sensor, status LED, and switch. This used to be a tickets-only project, so please let me know if I can improve on it - but I'd like to get it manufactured asap as gsdl takes awhile (:/). Additionally, I own the sk6812-mini LED and header pins I will use to solder this board, so JLCPCB won't solder them for me.
+Hi fellow reviewers! This is Moonboard - an RP2040-powered devboard with an integrated temperature sensor, status LED, and switch. Surprisingly, it's fully functional first-attempt and isn't (yet!) acting as a hot plate.
+
+# Build:
+
+**A video demo of the completed build can be found here:** https://youtube.com/shorts/RiM_gK4lOYQ
+
+![IMG_6528](https://github.com/user-attachments/assets/91f67494-9795-49c7-be4b-1c2841f48c1b)
+
+(front!!)
+
+![IMG_6529](https://github.com/user-attachments/assets/5444f091-a52f-4dfa-b2e7-1d5447400a5b)
+
+(back ;w;)
+
+![IMG_6524 2](https://github.com/user-attachments/assets/2c18dcc6-6d6a-4c28-9bd6-91feb963cfcb)
+
+(bootloader working first try!!)
+
+![IMG_6527](https://github.com/user-attachments/assets/c4578aba-9b9b-4114-ab2a-9e5480b3ebaa)
+
+(test board working!! yay!!)
+
+<img width="2000" height="1564" alt="image" src="https://github.com/user-attachments/assets/38064df1-7215-454f-8bec-b6c05a3e0765" />
+
+(simple boring polyrhythm test code!!)
+
+# Design:
 
 ## Credits:
 
